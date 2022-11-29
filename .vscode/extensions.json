@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+        "mechatroner.rainbow-csv",
+        "ms-vscode.powershell-preview",
+        "ms-dotnettools.vscode-dotnet-runtime",
+        "ms-vscode.azure-repos",
+        "github.remotehub",
+        "ms-azuretools.vscode-bicep",
+        "ms-vscode.remote-repositories"
+    ]
+}
