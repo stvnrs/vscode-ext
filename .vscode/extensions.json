@@ -6,6 +6,7 @@
         "ms-vscode.azure-repos",
         "github.remotehub",
         "ms-azuretools.vscode-bicep",
-        "ms-vscode.remote-repositories"
+        "ms-vscode.remote-repositories",
+        "GitHub.vscode-pull-request-github"
     ]
 }
